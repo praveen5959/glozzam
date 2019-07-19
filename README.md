@@ -1,1 +1,2 @@
-# glozzam
+# Glozzam
+A bootstrap theme template.
